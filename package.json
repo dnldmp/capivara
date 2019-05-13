@@ -1,0 +1,28 @@
+{
+  "name": "capivara",
+  "version": "1.0.0",
+  "description": "## O problema  Uma cientista está tentando entender como as capivaras se alimentam em parques pela cidade de Curitiba. Ela quer coletar as seguintes informações:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnldmp/capivara.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnldmp/capivara/issues"
+  },
+  "homepage": "https://github.com/dnldmp/capivara#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.3"
+  }
+}
